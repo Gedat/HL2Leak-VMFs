@@ -1,0 +1,4 @@
+$keys right_lid_raiser left_lid_raiser right_lid_tightener left_lid_tightener right_lid_droop left_lid_droop right_lid_closer left_lid_closer half_closed blink right_inner_raiser left_inner_raiser right_outer_raiser left_outer_raiser right_lowerer left_lowerer right_cheek_raiser left_cheek_raiser
+$hasweighting
+"01" "_" 0.536 1.000 0.536 1.000 0.413 1.000 0.413 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.867 1.000 0.867 1.000 0.000 1.000 0.000 1.000 0.883 1.000 0.883 1.000 0.098 1.000 0.098 1.000 "worry"
+"02" "_" 0.000 1.000 0.000 1.000 0.360 1.000 0.360 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.000 1.000 0.250 1.000 0.250 1.000 1.000 1.000 1.000 1.000 0.095 1.000 0.095 1.000 "anger"

@@ -1,0 +1,95 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "3392"
+	"mapversion" "1"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "64"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "1"
+	"classname" "worldspawn"
+	"skyname" "sky_day01_01"
+	"maxpropscreenwidth" "-1"
+	"detailvbsp" "detail.vbsp"
+	"detailmaterial" "detail/detailsprites"
+}
+entity
+{
+	"id" "2"
+	"classname" "prop_dynamic"
+	"angles" "5 180 4"
+	"disableshadows" "0"
+	"model" "models/props_lab/mobileprojector.mdl"
+	"skin" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"mindxlevel" "0"
+	"maxdxlevel" "0"
+	"solid" "6"
+	"RandomAnimation" "0"
+	"MinAnimTime" "5"
+	"MaxAnimTime" "10"
+	"SetBodyGroup" "0"
+	"fademindist" "-1"
+	"fademaxdist" "0"
+	"fadescale" "1"
+	"StartDisabled" "0"
+	"targetname" "projector_prop"
+	"DefaultAnim" "open_simple"
+	"origin" "-7829.49 5774.36 64.5206"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[6500 11500]"
+	}
+}
+entity
+{
+	"id" "4"
+	"classname" "logic_relay"
+	"targetname" "relay_projectorPrep"
+	"StartDisabled" "0"
+	connections
+	{
+		"OnTrigger" "sprite_projectorglow,ShowSprite,,0,-1"
+		"OnTrigger" "prop_monitorbeam,Enable,,0,-1"
+		"OnTrigger" "light_monitor,TurnOn,,1,-1"
+		"OnTrigger" "relay_camera_off,Trigger,,1,-1"
+	}
+	"origin" "-7908.04 5855.87 41"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordon
+{
+	"mins" "(-1024 -1024 -1024)"
+	"maxs" "(1024 1024 1024)"
+	"active" "0"
+}

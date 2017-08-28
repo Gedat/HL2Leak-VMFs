@@ -1,0 +1,310 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"dev/dev_windowportal" - "materials/dev/dev_windowportal.vtf": cached version doesn't exist
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\gameinfo.txt
+Patching WVT material: maps/d2_coast_07_fix/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/d2_coast_07_fix/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/d2_coast_07_fix/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/d2_coast_07_fix/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/d2_coast_07_fix/nature/blendgrassgravel001b_wvt_patch
+Patching WVT material: maps/d2_coast_07_fix/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_692_5376_1721!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_692_5376_1721!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_692_5376_1721!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_692_5376_1721!!!
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+env_cubemap pointing at deleted brushside near (3335, 4844, 1609)
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1080_5160_1713!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1080_5160_1713!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_790_5505_1577!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_692_5376_1721!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1080_5160_1713!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1037_5253_1712!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1037_5253_1712!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1080_5160_1713!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1080_5160_1713!!!
+Multiple references for cubemap on texture maps/d2_coast_07_fix/wood/woodfloor007a_1080_5160_1713!!!
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (3068.00 -5218.00 2048.00) leaked!
+Processing areas...
+Brush 751144: areaportal brush doesn't touch two areas
+
+Brush 751144: areaportal brush doesn't touch two areas
+
+Brush 751144: areaportal brush doesn't touch two areas
+
+Brush 751144: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (1)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 492 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (568104 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+8Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+Material NATURE/BLENDGRASSGRAVEL001B uses unknown detail object type coastline_redgrass03!
+...9...10
+Compacting texture/material tables...
+Reduced 4594 texinfos to 2167
+Reduced 573 texdatas to 419 (29311 bytes to 21505)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.bsp
+Wrote ZIP buffer, estimated size 14579609, actual size 14474607
+25 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[53 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+10277 faces
+1 degenerate faces
+29808960 square feet [4292490240.00 square inches]
+239 Displacements
+1306657 Square Feet [188158688.00 Square Inches]
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0351 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+35 of 35 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 192/1024         9216/49152    (18.8%) 
+brushes               1479/8192        17748/98304    (18.1%) 
+brushsides           11536/65536       92288/524288   (17.6%) 
+planes               10758/65536      215160/1310720  (16.4%) 
+vertexes             14506/65536      174072/786432   (22.1%) 
+nodes                 7804/65536      249728/2097152  (11.9%) 
+texinfos              2167/12288      156024/884736   (17.6%) 
+texdata                419/2048        13408/65536    (20.5%) 
+dispinfos              239/0           42064/0        ( 0.0%) 
+disp_verts            6479/0          129580/0        ( 0.0%) 
+disp_tris             8512/0           17024/0        ( 0.0%) 
+disp_lmsamples      326584/0          326584/0        ( 0.0%) 
+faces                10277/65536      575512/3670016  (15.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4775/65536      267400/3670016  ( 7.3%) 
+leaves                7997/65536      255904/2097152  (12.2%) 
+leaffaces            11452/65536       22904/131072   (17.5%) 
+leafbrushes           4821/65536        9642/131072   ( 7.4%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            64553/512000     258212/2048000  (12.6%) 
+edges                37739/256000     150956/1024000  (14.7%) 
+LDR worldlights         40/8192         3520/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            507/32768        5070/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10071/65536       20142/131072   (15.4%) 
+cubemapsamples         172/1024         2752/16384    (16.8%) 
+overlays                23/512          8096/180224   ( 4.5%) 
+LDR lightdata         [variable]     3497816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      266851/393216   (67.9%) 
+LDR ambient table     7997/65536       31988/262144   (12.2%) 
+HDR ambient table     7997/65536       31988/262144   (12.2%) 
+LDR leaf ambient     37204/65536     1041712/1835008  (56.8%) 
+HDR leaf ambient      7997/65536      223916/1835008  (12.2%) 
+occluders                7/0             280/0        ( 0.0%) 
+occluder polygons       20/0             240/0        ( 0.0%) 
+occluder vert ind       94/0             376/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/19584    ( 0.0%) 
+pakfile               [variable]    14474607/0        ( 0.0%) 
+physics               [variable]      568104/4194304  (13.5%) 
+physics terrain       [variable]       39549/1048576  ( 3.8%) 
+
+Level flags = 0
+
+Total triangle count: 24879
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.bsp
+2 minutes, 26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[53 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+10277 faces
+1 degenerate faces
+29808960 square feet [4292490240.00 square inches]
+239 Displacements
+1306657 Square Feet [188158688.00 Square Inches]
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0456 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+35 of 35 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 192/1024         9216/49152    (18.8%) 
+brushes               1479/8192        17748/98304    (18.1%) 
+brushsides           11536/65536       92288/524288   (17.6%) 
+planes               10758/65536      215160/1310720  (16.4%) 
+vertexes             14506/65536      174072/786432   (22.1%) 
+nodes                 7804/65536      249728/2097152  (11.9%) 
+texinfos              2167/12288      156024/884736   (17.6%) 
+texdata                419/2048        13408/65536    (20.5%) 
+dispinfos              239/0           42064/0        ( 0.0%) 
+disp_verts            6479/0          129580/0        ( 0.0%) 
+disp_tris             8512/0           17024/0        ( 0.0%) 
+disp_lmsamples      326584/0          326584/0        ( 0.0%) 
+faces                10277/65536      575512/3670016  (15.7%) 
+hdr faces            10277/65536      575512/3670016  (15.7%) 
+origfaces             4775/65536      267400/3670016  ( 7.3%) 
+leaves                7997/65536      255904/2097152  (12.2%) 
+leaffaces            11452/65536       22904/131072   (17.5%) 
+leafbrushes           4821/65536        9642/131072   ( 7.4%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            64553/512000     258212/2048000  (12.6%) 
+edges                37739/256000     150956/1024000  (14.7%) 
+LDR worldlights         40/8192         3520/720896   ( 0.5%) 
+HDR worldlights         40/8192         3520/720896   ( 0.5%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            507/32768        5070/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10071/65536       20142/131072   (15.4%) 
+cubemapsamples         172/1024         2752/16384    (16.8%) 
+overlays                23/512          8096/180224   ( 4.5%) 
+LDR lightdata         [variable]     3497816/0        ( 0.0%) 
+HDR lightdata         [variable]     3497816/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      266851/393216   (67.9%) 
+LDR ambient table     7997/65536       31988/262144   (12.2%) 
+HDR ambient table     7997/65536       31988/262144   (12.2%) 
+LDR leaf ambient     37204/65536     1041712/1835008  (56.8%) 
+HDR leaf ambient     36348/65536     1017744/1835008  (55.5%) 
+occluders                7/0             280/0        ( 0.0%) 
+occluder polygons       20/0             240/0        ( 0.0%) 
+occluder vert ind       94/0             376/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/19584    ( 0.0%) 
+pakfile               [variable]    14474607/0        ( 0.0%) 
+physics               [variable]      568104/4194304  (13.5%) 
+physics terrain       [variable]       39549/1048576  ( 3.8%) 
+
+Level flags = 0
+
+Total triangle count: 24879
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tf_coop\maps\vmfmaps\hl2-mappack\d2_coast_07_fix.bsp
+2 minutes, 24 seconds elapsed
